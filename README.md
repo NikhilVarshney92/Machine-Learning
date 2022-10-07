@@ -1,1 +1,1 @@
-# Supervised-Learning-Alogrithms
+# Machine Learning
